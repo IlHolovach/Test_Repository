@@ -1,4 +1,4 @@
 Hello!
 12345
-bye
-123
+Hello from feature1
+line from user2
