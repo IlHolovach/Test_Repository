@@ -1,3 +1,4 @@
 good bye!
 line2
+line from user2
 +line from user2
