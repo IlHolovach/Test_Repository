@@ -1,2 +1,3 @@
 good bye!
-+line2
+line2
++line from user2
